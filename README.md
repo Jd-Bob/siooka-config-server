@@ -1,0 +1,2 @@
+# siooka-config
+config server
